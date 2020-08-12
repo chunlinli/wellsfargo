@@ -1,0 +1,16 @@
+name: wellsfargo
+dependencies:
+  - python=3.7
+  - numpy=1.19.1
+  - pandas=1.0.5
+  - pip=20.1.1
+  - pip:
+    - scipy==1.5.2
+    - notebook==6.0.3
+    - seaborn==0.10.1
+    - catboost==0.23.2
+    - lightgbm==2.3.1
+    - xgboost==1.1.1
+    - matplotlib==3.3.0
+    - scikit-learn==0.23.1
+

@@ -1,0 +1,11 @@
+*.vscode/
+*local/
+*DS_Store
+*ipynb_checkpoints
+*~
+*__pycache__
+*catboost_info/
+*.Rhistory
+*.Rproj.user
+*.Rproj
+.Rproj.user
