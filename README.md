@@ -1,6 +1,6 @@
 # Wells Fargo Campus Analytics Challenge
 
-Team Member: Xuesong Hou, Chunlin Li, Yu Yang
+Team Members: Xuesong Hou, Chunlin Li, Yu Yang
 
 This repository contains all of the code, data, and images throughout our data anlaysis. 
 
