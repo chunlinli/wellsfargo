@@ -1,4 +1,4 @@
-# Wells Fargo Campus Analytics Challenge
+# 2020 Wells Fargo Campus Analytics Challenge
 
 Team Members: Xuesong Hou, Chunlin Li, Yu Yang
 
@@ -22,7 +22,7 @@ conda env create -f environment.yml
 ```
 
 Activate or deactivate the virtual environment using the following commands.
-```
+```bash
 conda activate wellsfargo
 conda deactivate
 ```
